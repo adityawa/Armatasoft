@@ -1,0 +1,7 @@
+C:\Adit\Src Code\ArmatasoftSln\ConsoleMobilReverse\bin\Debug\ConsoleMobilReverse.exe.config
+C:\Adit\Src Code\ArmatasoftSln\ConsoleMobilReverse\bin\Debug\ConsoleMobilReverse.exe
+C:\Adit\Src Code\ArmatasoftSln\ConsoleMobilReverse\bin\Debug\ConsoleMobilReverse.pdb
+C:\Adit\Src Code\ArmatasoftSln\ConsoleMobilReverse\obj\Debug\ConsoleMobilReverse.csprojAssemblyReference.cache
+C:\Adit\Src Code\ArmatasoftSln\ConsoleMobilReverse\obj\Debug\ConsoleMobilReverse.csproj.CoreCompileInputs.cache
+C:\Adit\Src Code\ArmatasoftSln\ConsoleMobilReverse\obj\Debug\ConsoleMobilReverse.exe
+C:\Adit\Src Code\ArmatasoftSln\ConsoleMobilReverse\obj\Debug\ConsoleMobilReverse.pdb

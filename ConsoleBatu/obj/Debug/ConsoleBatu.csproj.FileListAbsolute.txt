@@ -1,0 +1,7 @@
+C:\Adit\Src Code\ArmatasoftSln\ConsoleBatu\bin\Debug\ConsoleBatu.exe.config
+C:\Adit\Src Code\ArmatasoftSln\ConsoleBatu\bin\Debug\ConsoleBatu.exe
+C:\Adit\Src Code\ArmatasoftSln\ConsoleBatu\bin\Debug\ConsoleBatu.pdb
+C:\Adit\Src Code\ArmatasoftSln\ConsoleBatu\obj\Debug\ConsoleBatu.csprojAssemblyReference.cache
+C:\Adit\Src Code\ArmatasoftSln\ConsoleBatu\obj\Debug\ConsoleBatu.csproj.CoreCompileInputs.cache
+C:\Adit\Src Code\ArmatasoftSln\ConsoleBatu\obj\Debug\ConsoleBatu.exe
+C:\Adit\Src Code\ArmatasoftSln\ConsoleBatu\obj\Debug\ConsoleBatu.pdb

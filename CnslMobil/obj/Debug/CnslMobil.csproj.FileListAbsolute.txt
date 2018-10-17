@@ -1,0 +1,7 @@
+C:\Adit\Src Code\ArmatasoftSln\CnslMobil\bin\Debug\CnslMobil.exe.config
+C:\Adit\Src Code\ArmatasoftSln\CnslMobil\bin\Debug\CnslMobil.exe
+C:\Adit\Src Code\ArmatasoftSln\CnslMobil\bin\Debug\CnslMobil.pdb
+C:\Adit\Src Code\ArmatasoftSln\CnslMobil\obj\Debug\CnslMobil.csprojAssemblyReference.cache
+C:\Adit\Src Code\ArmatasoftSln\CnslMobil\obj\Debug\CnslMobil.csproj.CoreCompileInputs.cache
+C:\Adit\Src Code\ArmatasoftSln\CnslMobil\obj\Debug\CnslMobil.exe
+C:\Adit\Src Code\ArmatasoftSln\CnslMobil\obj\Debug\CnslMobil.pdb
